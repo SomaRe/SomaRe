@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi there 👋, I'm Shiva Tej Soma!
+<a href="https://www.linkedin.com/in/shivatejsoma/"><img src="linkedin.png" alt="linkedin logo" width="24px"></a>
 
+## Education
 <!--
 **SomaRe/SomaRe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
