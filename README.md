@@ -7,6 +7,7 @@
 - <img src="undergrad.png" alt="B&W medal" width="24px" style="margin-bottom: -5px;">Bachelor of Technology (Engineering) at <a href="https://vit.ac.in/">Vellore Institute of Technology</a>
 
 ## Current Position
+- Data and ML consultant at <a href="http://cranepartners.com/">Crane Partners Investment Firm</a>
 - <img src="teacher.png" alt="teacher logo" width="24px" style="margin-bottom: -5px;"> Programming Tutor at <a href="https://www.varsitytutors.com/">Varsity Tutors</a>
 
 ## Previous Experience
