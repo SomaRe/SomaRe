@@ -11,5 +11,6 @@
 - <img src="teacher.png" alt="teacher logo" width="24px" style="margin-bottom: -5px;"> Programming Tutor at <a href="https://www.varsitytutors.com/">Varsity Tutors</a>
 
 ## Previous Experience
+- Business Communication and Strategic Management Analyst at <a href="https://www.calpoly.edu/"> California Polytechnical State University </a>
 - Graduate Research Assistant at <a href="https://www.utoronto.ca/">University of Toronto</a>
 - Associate Business and Strategy Analyst at <a href="https://www.etmedialabs.com/">ET Media Labs</a>
